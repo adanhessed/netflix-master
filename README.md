@@ -1,6 +1,1 @@
-Criando Netflix do zero usando React (Ganchos personalizados, contexto, portais), Firebase, componentes compostos e estilizados (tutorial de 10 horas aqui: https://www.youtube.com/watch?v=x_EEwGe-a9o )
-Este aplicativo (um clone do Netflix) foi desenvolvido usando React (Custom Hooks, Context), Firebase & Styled Components. Eu construí as seguintes páginas dentro deste aplicativo: entrar, inscrever-se, navegar e, por último, a página inicial. Existem quatro páginas diferentes, algumas usando rotas protegidas com ouvintes de autenticação. O Firebase Firestore lida com todos os dados e esses dados são recuperados usando um gancho personalizado; a autenticação é usada em todas as páginas, que também é tratada pelo Firebase.
 
-Usei componentes compostos (apenas um padrão de design) para construir meus componentes e há mais de 10 exemplos de como eles são usados. O estilo é todo tratado por meio de componentes estilizados. Usar componentes compostos tornou meus componentes burros reais realmente fáceis de testar.
-
-Inscreva-se no meu canal do YouTube aqui: http://bit.ly/CognitiveSurge onde eu construo projetos como este! E não se esqueça, você pode contribuir com este projeto (muito incentivado!).
